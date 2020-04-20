@@ -103,7 +103,7 @@
   height: 100%;
 }
 
-.btn-mute-background:hover {
+.btn-mute-background:hover, .btn-play-background:hover {
   cursor: pointer;
 }
 
